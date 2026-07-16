@@ -7,7 +7,7 @@
 Thumbs.db
 
 # Ignorar carpetas generadas por tus editores o herramientas (se crearán después)
-/backend/target/
-/backend/.metadata/
+/backend-barber/target/
+/backend-barber/.metadata/
 /frontend-web/node_modules/
 /app-barbero/.dart_tool/
